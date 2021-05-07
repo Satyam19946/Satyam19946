@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello there 👋
 
+![Hello there](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 <!--
 **Satyam19946/Satyam19946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
