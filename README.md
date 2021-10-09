@@ -5,7 +5,7 @@
 ### Event Lead @ ACM-AI
 ### Tech Lead @ Tau Beta Pi (Engineer Honors Society)
 
-Currently looking for SWE NEW GRAD Full Time Positions starting from Summer 2022.
+Currently looking for SWE NEW GRAD Full-Time Positions.
 
 <!--
 **Satyam19946/Satyam19946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
