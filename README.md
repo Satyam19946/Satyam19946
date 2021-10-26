@@ -7,8 +7,8 @@
 
 Currently looking for SWE NEW GRAD Full-Time Positions.
 - 🔭 I currently spend most of my time Leetcoding or studying for my Recommender Systems and Deep Reinforcement Learning classes.
-- 🌱 I’m currently learning Recommender Systems and Deep Reinforcement Learning.
-- 👯 I’m looking to collaborate on ML projects.
+- 🌱 I’m currently learning how can recommendations change over time.
+- 👯 I’m looking to collaborate on ML/Web-Dev projects.
 - 💬 Ask me about Machine Learning and Web Development.
 - 😄 Pronouns: He/Him/His
 - 🤔 I’m looking for help with getting into research as an undergradute student.
