@@ -10,7 +10,7 @@ Currently looking for SWE NEW GRAD Full-Time Positions.
 - 🔭 I currently spend most of my time Leetcoding, working out, cooking, programming or watching anime/tv/movies.
 - 🌱 I’m currently learning Cryptography, Recommender Systems, and Deep reinforcement learning.
 - 👯 I’m looking to collaborate on ML/Web-Dev projects.
-- 💬 Ask me about Machine Learning and Web Development (It took me a while to understand the loop, hahaha get it?).
+- 💬 Ask me about Machine Learning and Web Development (It took me a while to understand the event loop, hahaha get it?).
 - 😄 Pronouns: He/Him/His
 - 🤔 I’m looking for help with getting into research as an undergradute student.
 - 📫 How to reach me: Best way is via email at [satyamgupta19946@gmail.com](mailto:satyamgupta19946@gmail.com), otherwise my username is satyam19946 for all my socials.
