@@ -5,8 +5,6 @@
 ### Event Lead @ ACM-AI
 ### Tech Lead @ Tau Beta Pi (Engineer Honors Society)
 
-Currently looking for SWE NEW GRAD Full-Time Positions.
-
 - 🔭 I currently spend most of my time Leetcoding, working out, cooking, programming or watching anime/tv/movies.
 - 🌱 I’m currently learning Cryptography, Recommender Systems, and Deep reinforcement learning.
 - 👯 I’m looking to collaborate on ML/Web-Dev projects.
