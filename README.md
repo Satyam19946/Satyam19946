@@ -4,6 +4,7 @@
 ### CSE Tutor @ UCSD
 ### Event Lead @ ACM-AI
 ### Tech Lead @ Tau Beta Pi (Engineer Honors Society)
+### Visit my [website](www.sagupta.tech)
 
 - 🔭 I currently spend most of my time Leetcoding, working out, cooking, programming or watching anime/tv/movies.
 - 🌱 I’m currently learning SQL and Backend development.
