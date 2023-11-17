@@ -5,7 +5,7 @@
 ### CSE Tutor @ UCSD
 ### Event Lead @ ACM-AI
 ### Tech Lead @ Tau Beta Pi (Engineer Honors Society)
-### Visit my [website](https://sagupta.tech)
+### Visit my [website](https://satyamgupta.tech)
 
 - 🤔 I currently work as a Software Engineer at F5.
 - 🔭 I spend most of my free time Leetcoding, working out, cooking, programming or watching anime/tv/movies.
