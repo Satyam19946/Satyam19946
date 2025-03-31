@@ -13,7 +13,6 @@
 - 💬 Ask me about Machine Learning and Web Development (It took me a while to understand the event loop, hahaha get it?).
 - 😄 Pronouns: He/Him/His
 - 📫 How to reach me: Best way is via email at [satyamgupta19946@gmail.com](mailto:satyamgupta19946@gmail.com), otherwise my username is satyam19946 for all my socials.
-- ⚡ Fun fact: I made this website about Cryptocurrency [CATcoin](https://sagupta.tech/crypto) for my GE class.
 
 <!--
 **Satyam19946/Satyam19946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
