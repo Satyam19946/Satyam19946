@@ -5,11 +5,10 @@
 ### CSE Tutor @ UCSD
 ### Event Lead @ ACM-AI
 ### Tech Lead @ Tau Beta Pi (Engineer Honors Society)
-### Visit my [website](https://satyamgupta.tech)
 
 - 🤔 I currently work as a Software Engineer at F5.
-- 🔭 I spend most of my free time Leetcoding, working out, cooking, programming or watching anime/tv/movies.
-- 🌱 I’m currently learning SQL and Backend development.
+- 🔭 I spend most of my free time Leetcoding, working out, cooking, reading, programming or watching anime/tv/movies.
+- 🌱 I’m currently learning about MLOps and automated robust data pipelines.
 - 👯 I’m looking to collaborate on ML/Web-Dev projects.
 - 💬 Ask me about Machine Learning and Web Development (It took me a while to understand the event loop, hahaha get it?).
 - 😄 Pronouns: He/Him/His
