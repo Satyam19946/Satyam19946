@@ -10,12 +10,12 @@
 - 😄 Pronouns: He/Him/His
 - 📫 How to reach me: Best way is via email at [satyamgupta19946@gmail.com](mailto:satyamgupta19946@gmail.com), otherwise my username is satyam19946 for all my socials.
 
-#### Past experiences
+### Past experiences
 
-### Ex-Software Engineer Intern @ SigFig
-### CSE Tutor @ UCSD
-### Event Lead @ ACM-AI
-### Tech Lead @ Tau Beta Pi (Engineer Honors Society)
+#### Ex-Software Engineer Intern @ SigFig
+#### CSE Tutor @ UCSD
+#### Event Lead @ ACM-AI
+#### Tech Lead @ Tau Beta Pi (Engineer Honors Society)
 
 
 
