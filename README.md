@@ -2,13 +2,11 @@
 
 ### Software Development Engineer II @ F5
 
-- 🤔 I currently work as a Software Engineer at F5.
-- 🔭 I spend most of my free time Leetcoding, working out, cooking, reading, programming or watching anime/tv/movies.
-- 🌱 I’m currently learning about MLOps and automated robust data pipelines.
-- 👯 I’m looking to collaborate on ML/Web-Dev projects.
-- 💬 Ask me about Machine Learning and Web Development (It took me a while to understand the event loop, hahaha get it?).
+- 🤔 I currently work as a Software Engineer at F5 with a high exposure to Linux's network stack and high-performance networking through F5's BIG-IP product.
+- 🔭 I spend most of my free time reading, learning anything about everything, and going for walks.
+- 🌱 I’m currently learning about MLOps, Kubernetes, Linux kernel, and kernel programming through eBPF.
 - 😄 Pronouns: He/Him/His
-- 📫 How to reach me: Best way is via email at [satyamgupta19946@gmail.com](mailto:satyamgupta19946@gmail.com), otherwise my username is satyam19946 for all my socials.
+- 📫 How to reach me: Best way is via email at [satyamgupta19946@gmail.com](mailto:satyamgupta19946@gmail.com), otherwise my username is satyam19946 for all social websites.
 
 ### Past experiences
 
